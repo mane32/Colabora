@@ -1,0 +1,7 @@
+Este es un proyecto pra prueba de nuevos comandos de git 
+
+Se trata de una pagina hecha en bootstrap
+
+Colaboradores
+1.- Sherlin 
+2.-Marina
