@@ -2,6 +2,8 @@ Este es un proyecto pra prueba de nuevos comandos de git
 
 Se trata de una pagina hecha en bootstrap
 
+Editando el index
+
 Colaboradores
 1.- Sherlin 
 2.-Marina
