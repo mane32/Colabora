@@ -5,5 +5,5 @@ Se trata de una pagina hecha en bootstrap
 Editando el index
 
 Colaboradores
-1.- Sherlin 
-2.-Marina
+1.- Sherlin -> header y footer
+2.-Marina -> contenido
